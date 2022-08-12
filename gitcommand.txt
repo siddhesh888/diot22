@@ -1,0 +1,70 @@
+ 1984  npm install nodemon --save-dev
+ 1985  node http.js
+ 1986  git --status
+ 1987  git --version
+ 1988  cd Desktop/
+ 1989  ls
+ 1990  cd Siddhesh_Sawant/
+ 1991  cd ed
+ 1992  ls
+ 1993  cd edge_cloud/
+ 1994  mkdir diot22_git
+ 1995  ls 
+ 1996  ls
+ 1997  cd diot22_git/
+ 1998  git init .
+ 1999  gitclone https://github.com/siddhesh888/diot22.git
+ 2000  git clone https://github.com/siddhesh888/diot22.git
+ 2001  ls
+ 2002  cd diot22/
+ 2003  ls
+ 2004  git status
+ 2005  .git
+ 2006  cd .git
+ 2007  cd .
+ 2008  cd ..
+ 2009  ls
+ 2010  cd git
+ 2011  ls -a
+ 2012  cd .git
+ 2013  ls
+ 2014  ls -a
+ 2015  ls -al
+ 2016  cd ..
+ 2017  git config --global user.name siddhesh888
+ 2018  git config --global user.email siddheshsawant888@gmail.com
+ 2019  git config --list
+ 2020  ls
+ 2021  nano helloworld.py
+ 2022  git status
+ 2023  git add helloworld.py 
+ 2024  git status
+ 2025  git add helloworld.py.swp
+ 2026  git rm--cached helloworld.py
+ 2027  git rm --cached helloworld.py
+ 2028  git status
+ 2029  git add helloworld.py.swp
+ 2030  git commit -m "my first program in python"
+ 2031  git add helloworld.py 
+ 2032  git status
+ 2033  git clean -f
+ 2034  git status
+ 2035  git commit -m "my first program in python"
+ 2036  git remote add origin https://github.com/siddhesh888/diot22.git
+ 2037  git remove -v
+ 2038  git remote -v
+ 2039  git status
+ 2040  git push -u origin master
+ 2041  git log
+ 2042  git pull origin master
+ 2043  git pull
+ 2044  git status
+ 2045  git pull
+ 2046  ls
+ 2047  git add c_pratice/
+ 2048  git commit -m "c programming"
+ 2049  git push origin master
+ 2050  history 30 > gitcommand.txt
+ 2051  history 50 > gitcommand.txt
+ 2052  git log
+ 2053  history 70 > gitcommand.txt
